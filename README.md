@@ -1,4 +1,4 @@
-# Ruta RAG – Semana 0
+# Ruta RAG - Log Personal JMED
 
 ## Environment
 | Software | Versión |
@@ -39,11 +39,11 @@ tiktoken                0.9.0
 
 ## Progreso de formación RAG
 
-| Curso / Badge (próximos 30 días) | Estado | Entregables |
-|----------------------------------|--------|-------------|
-| MSFT Career Essentials GenAI | ✅ Completado | [PDF](certs/msft_genai.pdf) |
-| LangChain for LLM App Dev | ⏳ En curso | `courses/02_langchain_rag/` |
-| Google Cloud GenAI Skill Badge | ⏳ Pendiente | — |
+| # | Curso / Badge (próximos 30 días) | Estado | Entregables |
+|---|----------------------------------|--------|-------------|
+| 1 | MSFT Career Essentials GenAI | ✅ Completado | [PDF](certs/msft_genai.pdf) |
+| 2 | LangChain for LLM App Dev | ⏳ En curso | `courses/02_langchain_rag/` |
+| 3 | Google Cloud GenAI Skill Badge | ⏳ Pendiente | — |
 
 ## Changelog
 - **2025‑07‑13** · Setup completo (Homebrew, Git, Python 3.12, venv) y certificación Microsoft GenAI añadida.
