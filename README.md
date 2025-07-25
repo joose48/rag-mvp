@@ -41,7 +41,7 @@ tiktoken                0.9.0
 
 | Curso / Badge (próximos 30 días) | Estado | Entregables |
 |----------------------------------|--------|-------------|
-| MSFT Career Essentials GenAI | ✅ Completado | `certs/msft_genai.pdf` |
+| MSFT Career Essentials GenAI | ✅ Completado | [PDF](certs/msft_genai.pdf) |
 | LangChain for LLM App Dev | ⏳ En curso | `courses/02_langchain_rag/` |
 | Google Cloud GenAI Skill Badge | ⏳ Pendiente | — |
 
