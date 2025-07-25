@@ -29,18 +29,21 @@ langchain-core          0.3.68
 langchain-text-splitters 0.3.8
 openai                  1.95.1
 tiktoken                0.9.0
-
 ```
 
-Certificaciones
-#	Certificado	Emisor	Fecha	URL
-1	Career Essentials in Generative AI	Microsoft & LinkedIn	2025‑07‑13	https://www.linkedin.com/learning/certificates/6b7cfe816d24b037ca9567444f7a764467cf7b36d3dd9ecf2b0b5393788af37
+## Certificaciones
 
-Progreso de formación RAG
-Curso / Badge (próximos 30 días)	Estado	Entregables
-MSFT Career Essentials GenAI	✅ Completado	certs/msft_genai.pdf
-LangChain for LLM App Dev	⏳ En curso	courses/02_langchain_rag/
-Google Cloud GenAI Skill Badge	⏳ Pendiente	—
+| # | Certificado | Emisor | Fecha | URL |
+|---|-------------|--------|-------|-----|
+| 1 | Career Essentials in Generative AI | Microsoft & LinkedIn | 2025‑07‑13 | https://www.linkedin.com/learning/certificates/6b7cfe816d24b037ca9567444f7a764467cf7b36d3dd9ecf2b0b5393788af37 |
 
-Changelog
-2025‑07‑13 · Setup completo (Homebrew, Git, Python 3.12, venv) y certificación Microsoft GenAI añadida.
+## Progreso de formación RAG
+
+| Curso / Badge (próximos 30 días) | Estado | Entregables |
+|----------------------------------|--------|-------------|
+| MSFT Career Essentials GenAI | ✅ Completado | `certs/msft_genai.pdf` |
+| LangChain for LLM App Dev | ⏳ En curso | `courses/02_langchain_rag/` |
+| Google Cloud GenAI Skill Badge | ⏳ Pendiente | — |
+
+## Changelog
+- **2025‑07‑13** · Setup completo (Homebrew, Git, Python 3.12, venv) y certificación Microsoft GenAI añadida.
